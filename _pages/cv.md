@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV can be found [here](http://academicpages.github.io/files/cv.pdf)
+CV can be found [here](http://uestccx.github.io/files/cv.pdf)
