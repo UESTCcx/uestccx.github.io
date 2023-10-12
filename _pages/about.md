@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello,
+
+I'm Chen, currently working as an ISP algorithm engineer at Axera Japan. My primary research interests encompass computational imaging/photography, optics, AI, ISP, and their related areas and applications.
+
+I earned my B.Eng in 2018 from the [University of Electronics Science and Technology of China](https://en.uestc.edu.cn/). Subsequently, I pursued my education in Japan at the Department of Information and Communications Engineering, Tokyo Institute of Technology, under the guidance of [Professor Masahiro Yamaguchi](https://www.oid.ict.e.titech.ac.jp/wp/home_en/). I successfully obtained my M.Eng in 2020 and completed my D.Eng in 2023, with my doctoral research focusing on computational imaging, particularly lensless camera and see-through screen camera.
+
+I welcome connections and conversations at uestccx@hotmail.com, not only for research discussions but also for potential job opportunities.
+
